@@ -23,3 +23,8 @@ Required DLLs:
 - Qt5Widgetsd.dll
 - platforms/qwindows.dll
 - platforms/qwindowsd.dll
+
+
+=======
+
+RELEASE build: http://glararan.eu/SNAKE.rar
